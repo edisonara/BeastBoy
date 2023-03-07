@@ -15,7 +15,17 @@ Este proyecto es una implementación de un sistema ERP basado en la web, y en ve
 - Gestión de Ventas.
 - Gestión de Producción.
 - Gestión de Trabajadores.
-- Gestión de Reportes. 
+- Gestión de Reportes.
+
+## Como es la app?
+![image](https://user-images.githubusercontent.com/97000882/223334263-ba590f96-c52e-4db5-be46-43ad464c06e6.png)
+LOGUING
+
+![image](https://user-images.githubusercontent.com/97000882/223334287-3a498b5f-cb8f-4783-9032-34fe36f96823.png)
+VENTANA PRNICIPAL. 
+![image](https://user-images.githubusercontent.com/97000882/223334301-44d088a1-28fe-40f3-9686-32cdc7bf83f0.png)
+CAMPO DE INGRESO DE DATOS.
+
 
 ## Requisitos
 
