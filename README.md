@@ -27,11 +27,11 @@ Este proyecto es una implementación de un sistema ERP basado en la web, y en ve
 
 ## Versión Web.
 1. Run the app directly in your browser. 
-      Para poder ingresar a la version web ingrese al siguiente acceso: [ Browser Link] (`https://www.appsheet.com/start/b69da9f3-f8b0-4f90-9d4a-24fa8796d7c7`)
+      Para poder ingresar a la version web ingrese al siguiente acceso: [` Browser Link`] (https://www.appsheet.com/start/b69da9f3-f8b0-4f90-9d4a-24fa8796d7c7)
 ## Vesión Android
 1. Instala en playStore AppSheet. 
 2. Allows mobile users to install the app on their device. 
-      Para poder ingresar en la versión android ingrese en el acceso: [Install Link] (`https://www.appsheet.com/newshortcut/b69da9f3-f8b0-4f90-9d4a-24fa8796d7c7`)
+      Para poder ingresar en la versión android ingrese en el acceso: [`Install Link`] (https://www.appsheet.com/newshortcut/b69da9f3-f8b0-4f90-9d4a-24fa8796d7c7)
       
 ## Vesión Desarrollo. 
 1. Para obtener la version de desarrollo comunicarse con (@user)
