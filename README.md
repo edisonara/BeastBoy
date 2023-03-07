@@ -1,8 +1,8 @@
 # BeastBoy ERP
 ### Desarrollo de Software BeastBoy para mejorar la productividad de una empresa agrícola. (DSBA)
 
-[![Estado del sistema](https://img.shields.io/badge/Estado-en%20desarrollo-yellow)](https://github.com/tuusuario/tuproyecto)
-[![Licencia](https://img.shields.io/github/license/tuusuario/tuproyecto)](https://github.com/tuusuario/tuproyecto/blob/main/LICENSE)
+[![Estado del sistema](https://img.shields.io/badge/Estado-en%20desarrollo-yellow)](https://github.com/edisonara/BeastBoy)
+[![Licencia](https://img.shields.io/github/license/tuusuario/tuproyecto)](https://github.com/edisonara/BeastBoy/blob/main/LICENSE)
 
 ## Descripción
 
@@ -34,7 +34,7 @@ Este proyecto es una implementación de un sistema ERP basado en la web, y en ve
       Para poder ingresar en la versión android ingrese en el acceso: [`Install Link`] (https://www.appsheet.com/newshortcut/b69da9f3-f8b0-4f90-9d4a-24fa8796d7c7)
       
 ## Vesión Desarrollo. 
-1. Para obtener la version de desarrollo comunicarse con (@user)
+1. Para obtener la version de desarrollo comunicarse con (`eaar2300appol@gmail.com`)
 
 
 ## Licencia
