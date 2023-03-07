@@ -27,26 +27,17 @@ Este proyecto es una implementación de un sistema ERP basado en la web, y en ve
 
 ## Versión Web.
 1. Run the app directly in your browser. 
-      Para poder ingresar a la version web ingrese al siguiente acceso: [ Browser Link] (https://www.appsheet.com/start/b69da9f3-f8b0-4f90-9d4a-24fa8796d7c7)
+      Para poder ingresar a la version web ingrese al siguiente acceso: [ Browser Link] (`https://www.appsheet.com/start/b69da9f3-f8b0-4f90-9d4a-24fa8796d7c7`)
 ## Vesión Android
 1. Instala en playStore AppSheet. 
 2. Allows mobile users to install the app on their device. 
-      Para poder ingresar en la versión android ingrese en el acceso: [Install Link] (https://www.appsheet.com/newshortcut/b69da9f3-f8b0-4f90-9d4a-24fa8796d7c7)
+      Para poder ingresar en la versión android ingrese en el acceso: [Install Link] (`https://www.appsheet.com/newshortcut/b69da9f3-f8b0-4f90-9d4a-24fa8796d7c7`)
       
 ## Vesión Desarrollo. 
+1. Para obtener la version de desarrollo comunicarse con (@user)
 
-
-## Contribuir
-
-Si deseas contribuir al proyecto, por favor sigue estas instrucciones:
-
-1. Crea un fork del proyecto.
-2. Crea una rama nueva para tus cambios (`git checkout -b feature/nuevafuncionalidad`).
-3. Realiza los cambios necesarios y realiza los commits (`git commit -am 'Agrega nueva funcionalidad'`).
-4. Haz push a tu rama (`git push origin feature/nuevafuncionalidad`).
-5. Crea un pull request y describe tus cambios detalladamente.
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT. Para más información, consulta el archivo [LICENSE](https://github.com/tuusuario/tuproyecto/blob/main/LICENSE).
+Este proyecto está bajo la Licencia MIT. Para más información, consulta el archivo [LICENSE](https://github.com/edisonara/BeastBoy/blob/main/LICENSE).
 
